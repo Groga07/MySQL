@@ -15,3 +15,4 @@ GB_project_MySQL_database
 3. boardgamer_filling.sql -заполнение базы данными
 4. boardgamer_selects.sql -примеры запросов
 5. диаграмма 
+![Диаграмма](https://user-images.githubusercontent.com/87616211/196286600-73b3f0c2-5a6e-4f63-a82f-063d6fd2aeb3.jpg)
